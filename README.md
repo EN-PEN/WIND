@@ -1,5 +1,5 @@
 加速*4
-///C++
+\\\C++
 float a=millis();
 int x=100;
 void setup() {
@@ -22,6 +22,6 @@ float b=millis();
  analogWrite(5,x);
  digitalWrite(6,0);
  }
- ///
+ \\\
  按鈕加速:
  
